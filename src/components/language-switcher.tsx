@@ -14,10 +14,9 @@ import {
 const LOCALE_LABELS: Record<string, string> = {
   en: "English",
   es: "Español",
-  pt: "Português",
+  "pt-BR": "Português (Brasil)",
   de: "Deutsch",
-  fr: "Français",
-};
+} satisfies Record<Locale, string>;
 
 /**
  * 语言切换器（下拉菜单版）：点击 Globe 图标展开所有语言列表
