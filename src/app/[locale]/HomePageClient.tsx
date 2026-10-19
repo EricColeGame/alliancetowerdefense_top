@@ -40,7 +40,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
         <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
           <Button asChild size="lg"><Link href={siteConfig.gameUrl || "#"} target="_blank" rel="noopener noreferrer">{home.hero.primaryCta}</Link></Button>
           <Button asChild size="lg" variant="outline"><Link href={localizeHref("/guide", locale)}>{home.hero.secondaryCta}</Link></Button>
-          <Button asChild size="lg" variant="outline"><Link href={localizeHref("/tier-list", locale)}>{home.hero.tertiaryCta}</Link></Button>
+          <Button asChild size="lg" variant="outline"><Link href={localizeHref("/guide/alliance-tower-defense-unit-tier-list", locale)}>{home.hero.tertiaryCta}</Link></Button>
         </div>
       </section>
 

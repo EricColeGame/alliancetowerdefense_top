@@ -6,7 +6,17 @@
     "description": "Your ultimate Alliance Tower Defense guide! Explore codes, unit rankings, team builds, summoning tips, stage strategies, and weekly update coverage.",
     "legalNotice": "Independent fan wiki. Not affiliated with MrUpTime's Games or Roblox."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "codes": "Codes",
+    "modes": "Modes",
+    "characters": "Characters",
+    "progression": "Progression",
+    "trading": "Trading",
+    "community": "Community",
+    "menu": "Menu",
+    "toggleTheme": "Theme"
+  },
   "home": {
     "meta": {
       "title": "Alliance Tower Defense Wiki - Codes, Units & Tier List",
@@ -421,7 +431,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Alliance Tower Defense Guides",
+    "overviewDescription": "Start with beginner walkthroughs, unit breakdowns, tier rankings, farming routes, partner unlocks, and practical team-building advice for every stage."
+  },
+  "codes": {
+    "overviewTitle": "Alliance Tower Defense Codes",
+    "overviewDescription": "Check the latest Alliance Tower Defense codes, redemption steps, and reward details so you can claim free Coins before each code expires."
+  },
+  "modes": {
+    "overviewTitle": "Alliance Tower Defense Game Modes",
+    "overviewDescription": "Compare Easy through Insane, Crazy, Endless, and seasonal modes with clear strategies for each difficulty and leaderboard push."
+  },
+  "characters": {
+    "overviewTitle": "Alliance Tower Defense Characters",
+    "overviewDescription": "Explore unit roles, titan characters, mythic and omega units, placement tips, and upgrade priorities for stronger teams."
+  },
+  "progression": {
+    "overviewTitle": "Alliance Tower Defense Progression",
+    "overviewDescription": "Learn how summons, unit upgrades, Coins, crates, and event rewards work so every resource moves your roster forward."
+  },
+  "trading": {
+    "overviewTitle": "Alliance Tower Defense Trading",
+    "overviewDescription": "Read trade values, demand signals, and deal-checking advice before swapping units, so you can protect your best inventory."
+  },
+  "community": {
+    "overviewTitle": "Alliance Tower Defense Community",
+    "overviewDescription": "Follow update coverage, new unit discussion, Discord and Reddit highlights, and community-tested tips for the current meta."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -452,8 +489,8 @@
     "officialYoutube": "Alliance Tower Defense Videos",
     "vvBuilder": "Alliance Tower Defense Community",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Unit Guides",
-    "bossGuides": "Stage Guides",
+    "raceGuides": "Character Guides",
+    "bossGuides": "Game Mode Guides",
     "buildGuide": "Unit Tier List",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
