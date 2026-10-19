@@ -22,11 +22,15 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+  const description = "Explore Alliance Tower Defense codes, unit tier lists, beginner guides, team builds, summon tips, stage strategies, and the latest game updates in one place.";
   return {
     metadataBase: new URL(siteUrl),
     title: { default: "Alliance Tower Defense Wiki", template: "%s" },
-    description: "Complete Alliance Tower Defense fan wiki with codes, units, tier lists, team builds, stage guides, and weekly update coverage.",
+    description,
+    keywords: ["Alliance Tower Defense", "Roblox", "codes", "units", "tier list", "guides", "strategies"],
+    applicationName: siteConfig.name,
     manifest: "/manifest.json",
+    alternates: { canonical: `/${locale}` },
     icons: {
       icon: [
         { url: "/favicon.ico", sizes: "any" },
@@ -35,8 +39,21 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       ],
       apple: "/apple-touch-icon.png",
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: {
+      type: "website",
+      locale,
+      url: `${siteUrl}/${locale}`,
+      siteName: siteConfig.name,
+      title: "Alliance Tower Defense Wiki",
+      description,
+      images: [{ url: image, width: 1280, height: 720, alt: "Alliance Tower Defense gameplay preview" }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Alliance Tower Defense Wiki",
+      description,
+      images: [image],
+    },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -49,10 +66,18 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   const organization = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: siteConfig.name,
-    url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
-    image: `${siteUrl}/images/hero.webp`,
+    "name": siteConfig.name,
+    "url": siteUrl,
+    "logo": `${siteUrl}/android-chrome-512x512.png`,
+    "image": `${siteUrl}/images/hero.webp`,
+    "description": siteConfig.description,
+    "sameAs": [siteConfig.gameUrl, siteConfig.social?.discord].filter(Boolean),
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "email": siteConfig.supportEmail,
+      "url": siteUrl,
+    },
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
