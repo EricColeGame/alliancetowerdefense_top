@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the match loop: pick a mode and loadout, place cheap coverage, earn Coins, and upgrade your core defense."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Active Codes",
+          "description": "Redeem the working Halloween and 10M codes in the Shop for free Coins before the seasonal code expires."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Unit Tier List",
+          "description": "Build around S-tier roles, then add control, support, and economy instead of chasing rarity alone."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Alliance Tower Defense."
+          "title": "Coin Farming",
+          "description": "Push the highest difficulty you can clear, finish daily quests first, and upgrade carry towers before adding new ones."
         }
       ]
     },
@@ -62,78 +62,78 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Working Codes",
+        "Unit Tier List",
+        "Coin Farming"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Cover the core match loop, starter roles, Coin spending, and placement habits for your first wins.",
+          "href": "/guide/alliance-tower-defense-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "Redeem Halloween and 10M for free Coins and check which milestone codes have expired.",
+          "href": "/codes/alliance-tower-defense-new-codes"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Unit Tier List",
+          "description": "Rank units by role, cost efficiency, and late-wave scaling before you spend Coins.",
+          "href": "/guide/alliance-tower-defense-unit-tier-list"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Best Units",
+          "description": "Build a five-role team with a carry, area damage, control, support, and economy.",
+          "href": "/guide/alliance-tower-defense-best-units"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Best Towers",
+          "description": "Choose towers by placement, upgrade timing, and coverage instead of raw rarity.",
+          "href": "/guide/alliance-tower-defense-best-towers"
+        },
+        {
+          "badge": "New",
+          "title": "Crazy Mode Guide",
+          "description": "Use funded carries, crowd control, and coin discipline to survive the mid-game spike.",
+          "href": "/modes/alliance-tower-defense-crazy-mode"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Summon Units",
+          "description": "Plan summons around team gaps, duplicate upgrades, and banner value.",
+          "href": "/progression/alliance-tower-defense-summon-units"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Unit Upgrades",
+          "description": "Concentrate resources on the carry and add control before spreading upgrades.",
+          "href": "/progression/alliance-tower-defense-unit-upgrades"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Weekly Updates",
+          "description": "Track new units, weekly changes, and the current difficulty curve.",
+          "href": "/community/alliance-tower-defense-update"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Alliance Tower Defense?",
       "paragraphs": [
-        "Alliance Tower Defense is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Alliance Tower Defense is a Roblox tower defense strategy game from MrUpTime's Games. Each match asks you to place and upgrade a team of units, hold the lane against escalating waves, and earn Coins that fund summons, upgrades, and a stronger lineup.",
+        "Progress comes from smart economy and placement rather than lucky pulls alone. Build a carry around control, support, and income roles, test new units on easier modes, and use the weekly update cycle to adjust your team before pushing higher difficulties or the leaderboard."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "MrUpTime's Games"
         },
         {
           "label": "Platform",
@@ -141,186 +141,276 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Tower Defense"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "25.3M+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Server Size",
+          "value": "35"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Updates",
+          "value": "Weekly"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Alliance Tower Defense Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Use these Alliance Tower Defense guides to redeem codes, learn the core loop, rank units, clear every mode, farm Coins, plan summons, and follow weekly changes.",
       "modules": [
         {
           "order": 1,
-          "name": "Alliance Tower Defense Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/alliance-tower-defense-codes",
-          "displayType": "code-box",
+          "name": "Alliance Tower Defense Codes",
+          "description": "Track working, expired, and newly released Alliance Tower Defense codes, the rewards each one grants, and the exact Shop redemption steps.",
+          "href": "/codes/alliance-tower-defense-new-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Halloween",
+              "detail": "Working October 2026 code that grants free Coins"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "10M",
+              "detail": "Milestone code that grants free Coins"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "8MVISITS",
+              "detail": "Expired milestone code; use the active list instead"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
+          "name": "Alliance Tower Defense Beginner Guide",
+          "description": "Learn the basic match loop, earn Coins, summon units, build a balanced team, and place your first defense for a clean early clear.",
           "href": "/guide/alliance-tower-defense-beginner-guide",
-          "displayType": "feature-cards",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Pick a mode, map, and balanced loadout before the first wave."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Place cheap damage coverage near the first turn."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Upgrade core damage before buying luxury units."
+            },
+            {
+              "label": "4",
+              "detail": "Add splash, control, or support where leaks appear."
+            },
+            {
+              "label": "5",
+              "detail": "Bank Coins for progression and keep a small reserve."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/alliance-tower-defense-tier-list",
+          "name": "Alliance Tower Defense Tier List",
+          "description": "Compare units by damage, range, attack speed, utility, and role so you can build a lineup that survives every difficulty.",
+          "href": "/guide/alliance-tower-defense-unit-tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Best in slot for its role; build the lineup around it"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Strong and reliable across most modes"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Solid but replaceable while you save for better"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Niche pick that works in specific setups"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/alliance-tower-defense-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Alliance Tower Defense Units Guide",
+          "description": "Browse units by rarity, combat role, abilities, and upgrade priority to decide which characters deserve your Coins.",
+          "href": "/guide/alliance-tower-defense-best-units",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Carry",
+              "detail": "Single-target DPS deletes bosses and high-health elites"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Area",
+              "detail": "Area damage clears dense enemy swarms"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Control",
+              "detail": "Slow and stun units buy time for your damage"
+            },
+            {
+              "label": "Support",
+              "detail": "Buffers amplify nearby towers' damage and range"
+            },
+            {
+              "label": "Economy",
+              "detail": "Income units pay back early and fund upgrades"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/alliance-tower-defense-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Alliance Tower Defense Game Modes",
+          "description": "Understand wave counts, difficulty spikes, and rewards across Easy, Medium, Crazy, Insane, and Endless modes.",
+          "href": "/modes",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Easy",
+              "detail": "Placement basics and early economy on Easy City"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Medium",
+              "detail": "Upgrade pacing and cash flow under heavier pressure"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Crazy",
+              "detail": "Wave density and summon timing in longer runs"
+            },
+            {
+              "label": "Insane",
+              "detail": "Funding discipline and reserve management for hard clears"
+            },
+            {
+              "label": "Endless",
+              "detail": "Unlimited waves with continuous enemy scaling"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/alliance-tower-defense-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Alliance Tower Defense Farming Guide",
+          "description": "Compare Coin farming routes by time, difficulty, and payout, then spend earnings on upgrades that deepen your runs.",
+          "href": "/guide/alliance-tower-defense-coin-farming-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Deep Runs",
+              "detail": "Higher-difficulty deep waves pay more Coins than early resets"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Daily",
+              "detail": "Daily quests and login rewards add low-effort Coin income"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Alliances",
+              "detail": "Active alliances add co-op bonuses and cleaner deep runs"
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Upgrade carry towers before adding more units"
+            },
+            {
+              "label": "Sell",
+              "detail": "Sell unneeded towers before ending a run to recover value"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Alliance Tower Defense Summoning Guide",
+          "description": "Plan summons around unit rarity, duplicate upgrades, banner timing, and the roles your team still needs.",
+          "href": "/progression/alliance-tower-defense-summon-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Currency",
+              "detail": "Earn summon currency from stage clears, tasks, and events"
+            },
+            {
+              "label": "New Units",
+              "detail": "Pulls can add units that expand your team options"
+            },
+            {
+              "label": "Dupes",
+              "detail": "Duplicates drive star-ups, awakening, and trait improvements"
+            },
+            {
+              "label": "Banners",
+              "detail": "Save pulls for banners that fill a specific team gap"
+            },
+            {
+              "label": "Reserve",
+              "detail": "Keep a Coin reserve so a strong banner does not catch you empty"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Alliance Tower Defense Updates",
+          "description": "Follow new units, balance changes, limited-time events, and weekly content updates in one chronological hub.",
+          "href": "/community/alliance-tower-defense-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Weekly",
+              "detail": "Alliance Tower Defense refreshes its content on a weekly schedule"
+            },
+            {
+              "label": "New Units",
+              "detail": "Each update can add units that change summon priorities"
+            },
+            {
+              "label": "Balance",
+              "detail": "Placement and composition still decide most matches"
+            },
+            {
+              "label": "Events",
+              "detail": "Seasonal banners bring limited-time content and rewards"
+            },
+            {
+              "label": "Badges",
+              "detail": "Mode badge rarity shows where players stall on the difficulty curve"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Alliance Tower Defense.",
+      "title": "Alliance Tower Defense FAQ",
+      "description": "Answers to the most common questions about starting, summoning, farming, and clearing harder modes in Alliance Tower Defense.",
       "items": [
         {
           "question": "What is Alliance Tower Defense?",
-          "answer": "Alliance Tower Defense is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Alliance Tower Defense is a Roblox tower defense strategy game from MrUpTime's Games. You place and upgrade units, survive waves, earn Coins, summon new units, build a team, and push the leaderboard across weekly updates."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do Alliance Tower Defense codes work?",
+          "answer": "Alliance Tower Defense codes grant free Coins when entered exactly as written. Open the Shop, paste the code into the text box at the bottom, and redeem one code at a time. The Halloween and 10M codes are active for October 2026."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What should I do first in Alliance Tower Defense?",
+          "answer": "Start with cheap damage coverage at the first turn, add splash for groups, and keep a small Coin reserve. Upgrade your main damage before spreading resources across new units."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How should I spend summons in Alliance Tower Defense?",
+          "answer": "Use stage clears, daily tasks, and events to build summon currency. Pull for a specific role your team lacks, and value duplicates because they drive star-ups, awakening, and trait improvements."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Why is Medium mode hard in Alliance Tower Defense?",
+          "answer": "Medium mode is the first major difficulty wall in Alliance Tower Defense. Bank Coins before summoning, test new units on Easy, prioritize placement over rarity, and check the leaderboard for the current team shape."
+        },
+        {
+          "question": "How often does Alliance Tower Defense update?",
+          "answer": "Alliance Tower Defense follows a weekly update schedule. New units, banners, events, and balance changes can shift which summons and teams are worth building."
         }
       ]
     },
