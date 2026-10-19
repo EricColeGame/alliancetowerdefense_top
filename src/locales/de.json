@@ -1,1 +1,498 @@
-{}
+{
+  "site": {
+    "name": "Alliance Tower Defense Wiki",
+    "shortName": "Alliance Tower Defense",
+    "tagline": "Einheiten, Tier-Listen, Codes und Strategie-Guides",
+    "description": "Dein ultimativer Leitfaden für Alliance Tower Defense! Entdecke Codes, Einheiten-Rankings, Teamaufstellungen, Beschwörungstipps, Etappenstrategien und wöchentliche Update-Berichte.",
+    "legalNotice": "Unabhängiges Fan-Wiki. Nicht mit MrUpTime's Games oder Roblox verbunden."
+  },
+  "nav": {
+    "guide": "Guides",
+    "codes": "Codes",
+    "modes": "Modi",
+    "characters": "Charaktere",
+    "progression": "Fortschritt",
+    "trading": "Handel",
+    "community": "Community",
+    "menu": "Menü",
+    "toggleTheme": "Design"
+  },
+  "home": {
+    "meta": {
+      "title": "Alliance Tower Defense Wiki: Codes, Einheiten und Tier-Liste",
+      "description": "Finde Alliance Tower Defense Codes, Tier-Listen für Einheiten, Einsteiger-Guides, Teamaufstellungen, Beschwörungstipps, Etappenstrategien und die neuesten Spielupdates an einem Ort."
+    },
+    "hero": {
+      "eyebrow": "Roblox-Tower-Defense-Strategiespiel",
+      "title": "Alliance Tower Defense Wiki",
+      "description": "Stelle dein Team zusammen, beschwöre mächtige Einheiten, verdiene Münzen in Kämpfen und meistere immer schwierigere Tower-Defense-Etappen. Entdecke Einsteiger-Guides, Einheiten-Rankings, Teamstrategien, Codes und Update-Informationen.",
+      "stats": [
+        "Über 25,3 Mio. Besuche",
+        "3.088 Spieler online",
+        "Wöchentliche Updates",
+        "35 Spieler pro Server"
+      ],
+      "primaryCta": "Auf Roblox spielen",
+      "secondaryCta": "Einsteiger-Guide",
+      "tertiaryCta": "Einheiten-Tier-Liste",
+      "videoLabel": "Gameplay-Vorschau"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides ansehen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier beginnen",
+      "title": "Deine Reise in Alliance Tower Defense",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Lerne den Spielablauf kennen: Wähle Modus und Ausrüstung, platziere günstige Verteidigung, verdiene Münzen und verbessere deinen Hauptschaden."
+        },
+        {
+          "number": "2",
+          "title": "Aktive Codes",
+          "description": "Löse die funktionierenden Codes Halloween und 10M im Shop für kostenlose Münzen ein, bevor der saisonale Code abläuft."
+        },
+        {
+          "number": "3",
+          "title": "Einheiten-Tier-Liste",
+          "description": "Baue dein Team um S-Tier-Rollen herum auf und ergänze danach Kontrolle, Unterstützung und Wirtschaft, statt nur auf Seltenheit zu setzen."
+        },
+        {
+          "number": "4",
+          "title": "Münzen farmen",
+          "description": "Spiele die höchste Schwierigkeit, die du schaffst, erledige zuerst tägliche Aufgaben und verbessere Haupttürme, bevor du neue hinzufügst."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Einsteiger-Guide",
+        "Aktive Codes",
+        "Einheiten-Tier-Liste",
+        "Münzen farmen"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Behandelt den grundlegenden Spielablauf, Startrollen, Münzausgaben und Platzierungsgewohnheiten für deine ersten Siege.",
+          "href": "/guide/alliance-tower-defense-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Aktive Codes",
+          "description": "Löse Halloween und 10M für kostenlose Münzen ein und prüfe, welche Meilenstein-Codes abgelaufen sind.",
+          "href": "/codes/alliance-tower-defense-new-codes"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Einheiten-Tier-Liste",
+          "description": "Bewerte Einheiten nach Rolle, Kosteneffizienz und Skalierung in späten Wellen, bevor du Münzen ausgibst.",
+          "href": "/guide/alliance-tower-defense-unit-tier-list"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Beste Einheiten",
+          "description": "Stelle ein Team aus fünf Rollen mit Hauptschaden, Flächenschaden, Kontrolle, Unterstützung und Wirtschaft auf.",
+          "href": "/guide/alliance-tower-defense-best-units"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Beste Türme",
+          "description": "Wähle Türme nach Platzierung, Upgrade-Zeitpunkt und Abdeckung statt nur nach Seltenheit.",
+          "href": "/guide/alliance-tower-defense-best-towers"
+        },
+        {
+          "badge": "Neu",
+          "title": "Crazy-Modus-Guide",
+          "description": "Nutze finanzierte Hauptschadens-Einheiten, Massenkontrolle und Münzdisziplin, um den Anstieg in der Spielmitte zu überstehen.",
+          "href": "/modes/alliance-tower-defense-crazy-mode"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Einheiten beschwören",
+          "description": "Plane Beschwörungen anhand von Teamlücken, Duplikat-Upgrades und Bannerwert.",
+          "href": "/progression/alliance-tower-defense-summon-units"
+        },
+        {
+          "badge": "Neu",
+          "title": "Einheiten-Upgrades",
+          "description": "Konzentriere Ressourcen auf den Hauptschaden und ergänze Kontrolle, bevor du Upgrades verteilst.",
+          "href": "/progression/alliance-tower-defense-unit-upgrades"
+        },
+        {
+          "badge": "Neu",
+          "title": "Wöchentliche Updates",
+          "description": "Verfolge neue Einheiten, wöchentliche Änderungen und die aktuelle Schwierigkeitskurve.",
+          "href": "/community/alliance-tower-defense-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Alliance Tower Defense?",
+      "paragraphs": [
+        "Alliance Tower Defense ist ein Roblox-Tower-Defense-Strategiespiel von MrUpTime's Games. In jeder Runde platzierst und verbesserst du ein Team aus Einheiten, hältst die Spur gegen immer stärkere Wellen und verdienst Münzen für Beschwörungen, Upgrades und eine stärkere Aufstellung.",
+        "Fortschritt entsteht durch kluge Wirtschaft und Platzierung, nicht allein durch Glück bei Zügen. Baue einen Hauptschaden mit Kontroll-, Unterstützungs- und Einkommensrollen auf, teste neue Einheiten in leichteren Modi und nutze den wöchentlichen Update-Zyklus, um dein Team anzupassen, bevor du höhere Schwierigkeiten oder die Rangliste angehst."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "MrUpTime's Games"
+        },
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Tower Defense"
+        },
+        {
+          "label": "Besuche",
+          "value": "Über 25,3 Mio."
+        },
+        {
+          "label": "Spieler pro Server",
+          "value": "35"
+        },
+        {
+          "label": "Updates",
+          "value": "Wöchentlich"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Alliance Tower Defense Wiki entdecken",
+      "description": "Nutze diese Alliance Tower Defense Guides, um Codes einzulösen, den Kernablauf zu lernen, Einheiten zu bewerten, jeden Modus zu schaffen, Münzen zu farmen, Beschwörungen zu planen und wöchentliche Änderungen zu verfolgen.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Alliance Tower Defense Codes",
+          "description": "Verfolge aktive, abgelaufene und neu veröffentlichte Alliance Tower Defense Codes, ihre Belohnungen und die genauen Schritte zum Einlösen im Shop.",
+          "href": "/codes/alliance-tower-defense-new-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Halloween",
+              "detail": "Im Oktober 2026 aktiver Code für kostenlose Münzen"
+            },
+            {
+              "label": "10M",
+              "detail": "Meilenstein-Code für kostenlose Münzen"
+            },
+            {
+              "label": "8MVISITS",
+              "detail": "Abgelaufener Meilenstein-Code; nutze stattdessen die Liste der aktiven Codes"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Alliance Tower Defense Einsteiger-Guide",
+          "description": "Lerne den grundlegenden Spielablauf, verdiene Münzen, beschwöre Einheiten, baue ein ausgewogenes Team auf und platziere deine erste Verteidigung für einen sicheren Start.",
+          "href": "/guide/alliance-tower-defense-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Wähle vor der ersten Welle einen Modus, eine Karte und eine ausgewogene Ausrüstung."
+            },
+            {
+              "label": "2",
+              "detail": "Platziere günstige Schadensabdeckung nahe der ersten Kurve."
+            },
+            {
+              "label": "3",
+              "detail": "Verbessere den Hauptschaden, bevor du Luxus-Einheiten kaufst."
+            },
+            {
+              "label": "4",
+              "detail": "Ergänze Flächenschaden, Kontrolle oder Unterstützung dort, wo Lücken entstehen."
+            },
+            {
+              "label": "5",
+              "detail": "Spare Münzen für den Fortschritt und halte eine kleine Reserve."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Alliance Tower Defense Tier-Liste",
+          "description": "Vergleiche Einheiten nach Schaden, Reichweite, Angriffsgeschwindigkeit, Nutzen und Rolle, um eine Aufstellung zu bauen, die jede Schwierigkeit übersteht.",
+          "href": "/guide/alliance-tower-defense-unit-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Die beste Wahl für ihre Rolle; baue die Aufstellung um sie herum"
+            },
+            {
+              "label": "A",
+              "detail": "Stark und zuverlässig in den meisten Modi"
+            },
+            {
+              "label": "B",
+              "detail": "Solide, aber ersetzbar, während du auf Besseres sparst"
+            },
+            {
+              "label": "C",
+              "detail": "Spezielle Wahl, die in bestimmten Aufstellungen funktioniert"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Alliance Tower Defense Einheiten-Guide",
+          "description": "Durchsuche Einheiten nach Seltenheit, Kampfrolle, Fähigkeiten und Upgrade-Priorität, um zu entscheiden, welche Charaktere deine Münzen verdienen.",
+          "href": "/guide/alliance-tower-defense-best-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Hauptschaden",
+              "detail": "Einzelziel-DPS beseitigt Bosse und Elitegegner mit viel Leben"
+            },
+            {
+              "label": "Fläche",
+              "detail": "Flächenschaden beseitigt dichte Gegnerschwärme"
+            },
+            {
+              "label": "Kontrolle",
+              "detail": "Verlangsamungs- und Betäubungseinheiten verschaffen deinem Schaden Zeit"
+            },
+            {
+              "label": "Unterstützung",
+              "detail": "Verstärker erhöhen Schaden und Reichweite nahe gelegener Türme"
+            },
+            {
+              "label": "Wirtschaft",
+              "detail": "Einkommenseinheiten amortisieren sich früh und finanzieren Upgrades"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Alliance Tower Defense Spielmodi",
+          "description": "Verstehe Wellenzahlen, Schwierigkeitsspitzen und Belohnungen in den Modi Easy, Medium, Crazy, Insane und Endless.",
+          "href": "/modes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Easy",
+              "detail": "Grundlagen der Platzierung und frühe Wirtschaft in Easy City"
+            },
+            {
+              "label": "Medium",
+              "detail": "Upgrade-Tempo und Münzfluss unter stärkerem Druck"
+            },
+            {
+              "label": "Crazy",
+              "detail": "Wellendichte und Beschwörungszeitpunkt in längeren Runs"
+            },
+            {
+              "label": "Insane",
+              "detail": "Finanzdisziplin und Reservenverwaltung für schwere Siege"
+            },
+            {
+              "label": "Endless",
+              "detail": "Unbegrenzte Wellen mit fortlaufender Gegnerskalierung"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Alliance Tower Defense Farming-Guide",
+          "description": "Vergleiche Münz-Farming-Routen nach Zeit, Schwierigkeit und Ertrag und investiere die Einnahmen in Upgrades, die deine Runs weiterbringen.",
+          "href": "/guide/alliance-tower-defense-coin-farming-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lange Runs",
+              "detail": "Späte Wellen auf höherer Schwierigkeit bringen mehr Münzen als frühe Neustarts"
+            },
+            {
+              "label": "Täglich",
+              "detail": "Tägliche Aufgaben und Login-Belohnungen bringen mühelos zusätzliche Münzen"
+            },
+            {
+              "label": "Allianzen",
+              "detail": "Aktive Allianzen bieten Koop-Boni und stabilere lange Runs"
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Verbessere Haupttürme, bevor du weitere Einheiten hinzufügst"
+            },
+            {
+              "label": "Verkaufen",
+              "detail": "Verkaufe unnötige Türme vor dem Ende eines Runs, um Wert zurückzugewinnen"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Alliance Tower Defense Beschwörungs-Guide",
+          "description": "Plane Beschwörungen anhand von Einheiten-Seltenheit, Duplikat-Upgrades, Banner-Zeitpunkt und den Rollen, die deinem Team noch fehlen.",
+          "href": "/progression/alliance-tower-defense-summon-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Währung",
+              "detail": "Verdiene Beschwörungswährung durch Etappensiege, Aufgaben und Events"
+            },
+            {
+              "label": "Neue Einheiten",
+              "detail": "Züge können Einheiten hinzufügen, die deine Teamoptionen erweitern"
+            },
+            {
+              "label": "Duplikate",
+              "detail": "Duplikate treiben Sterne-Upgrades, Erwachen und Eigenschaftsverbesserungen voran"
+            },
+            {
+              "label": "Banner",
+              "detail": "Spare Züge für Banner, die eine bestimmte Teamlücke schließen"
+            },
+            {
+              "label": "Reserve",
+              "detail": "Halte eine Münzreserve, damit ein starkes Banner dich nicht ohne Ressourcen erwischt"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Alliance Tower Defense Updates",
+          "description": "Verfolge neue Einheiten, Balance-Änderungen, zeitlich begrenzte Events und wöchentliche Inhaltsupdates in einem chronologischen Hub.",
+          "href": "/community/alliance-tower-defense-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Wöchentlich",
+              "detail": "Alliance Tower Defense erneuert seine Inhalte nach einem wöchentlichen Zeitplan"
+            },
+            {
+              "label": "Neue Einheiten",
+              "detail": "Jedes Update kann Einheiten hinzufügen, die Beschwörungsprioritäten verändern"
+            },
+            {
+              "label": "Balance",
+              "detail": "Platzierung und Teamzusammensetzung entscheiden weiterhin die meisten Runden"
+            },
+            {
+              "label": "Events",
+              "detail": "Saisonale Banner bringen zeitlich begrenzte Inhalte und Belohnungen"
+            },
+            {
+              "label": "Abzeichen",
+              "detail": "Die Seltenheit der Modus-Abzeichen zeigt, wo Spieler auf der Schwierigkeitskurve hängen bleiben"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Alliance Tower Defense FAQ",
+      "description": "Antworten auf die häufigsten Fragen zu Einstieg, Beschwörungen, Farming und dem Abschluss schwierigerer Modi in Alliance Tower Defense.",
+      "items": [
+        {
+          "question": "Was ist Alliance Tower Defense?",
+          "answer": "Alliance Tower Defense ist ein Roblox-Tower-Defense-Strategiespiel von MrUpTime's Games. Du platzierst und verbesserst Einheiten, überstehst Wellen, verdienst Münzen, beschwörst neue Einheiten, stellst ein Team zusammen und steigst über wöchentliche Updates in der Rangliste auf."
+        },
+        {
+          "question": "Wie funktionieren die Codes in Alliance Tower Defense?",
+          "answer": "Alliance Tower Defense Codes gewähren kostenlose Münzen, wenn sie genau wie angegeben eingegeben werden. Öffne den Shop, füge den Code in das Textfeld unten ein und löse jeweils nur einen Code ein. Die Codes Halloween und 10M sind im Oktober 2026 aktiv."
+        },
+        {
+          "question": "Was sollte ich in Alliance Tower Defense zuerst tun?",
+          "answer": "Beginne mit günstiger Schadensabdeckung an der ersten Kurve, ergänze Flächenschaden für Gruppen und halte eine kleine Münzreserve. Verbessere deinen Hauptschaden, bevor du Ressourcen auf neue Einheiten verteilst."
+        },
+        {
+          "question": "Wie sollte ich Beschwörungen in Alliance Tower Defense einsetzen?",
+          "answer": "Nutze Etappensiege, tägliche Aufgaben und Events, um Beschwörungswährung aufzubauen. Ziehe gezielt für eine Rolle, die deinem Team fehlt, und schätze Duplikate, denn sie treiben Sterne-Upgrades, Erwachen und Eigenschaftsverbesserungen voran."
+        },
+        {
+          "question": "Warum ist der Medium-Modus in Alliance Tower Defense schwer?",
+          "answer": "Der Medium-Modus ist die erste große Schwierigkeitshürde in Alliance Tower Defense. Spare vor dem Beschwören Münzen, teste neue Einheiten in Easy, priorisiere Platzierung vor Seltenheit und prüfe die Rangliste auf die aktuelle Teamform."
+        },
+        {
+          "question": "Wie oft wird Alliance Tower Defense aktualisiert?",
+          "answer": "Alliance Tower Defense folgt einem wöchentlichen Update-Zeitplan. Neue Einheiten, Banner, Events und Balance-Änderungen können verändern, welche Beschwörungen und Teams sich lohnen."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Alliance Tower Defense zu meistern?",
+      "description": "Von deiner ersten Beschwörung bis zu späten Ranglisten-Vorstößen deckt unser Community-Wiki Einheiten, Teamaufstellungen, Etappenstrategien, Codes und wöchentliche Updates ab.",
+      "primary": "Einsteiger-Guide lesen",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Alliance Tower Defense Guides",
+    "overviewDescription": "Beginne mit Einsteiger-Walkthroughs, Einheitenanalysen, Tier-Rankings, Farming-Routen, Partner-Freischaltungen und praktischen Tipps zum Teambau für jede Etappe."
+  },
+  "codes": {
+    "overviewTitle": "Alliance Tower Defense Codes",
+    "overviewDescription": "Prüfe die neuesten Alliance Tower Defense Codes, Einlöseschritte und Belohnungsdetails, damit du kostenlose Münzen erhältst, bevor jeder Code abläuft."
+  },
+  "modes": {
+    "overviewTitle": "Alliance Tower Defense Spielmodi",
+    "overviewDescription": "Vergleiche Easy, Medium, Crazy, Insane, Endless und saisonale Modi mit klaren Strategien für jede Schwierigkeit und jeden Ranglisten-Vorstoß."
+  },
+  "characters": {
+    "overviewTitle": "Alliance Tower Defense Charaktere",
+    "overviewDescription": "Entdecke Einheitenrollen, Titan-Charaktere, mythische und Omega-Einheiten, Platzierungstipps und Upgrade-Prioritäten für stärkere Teams."
+  },
+  "progression": {
+    "overviewTitle": "Alliance Tower Defense Fortschritt",
+    "overviewDescription": "Erfahre, wie Beschwörungen, Einheiten-Upgrades, Münzen, Kisten und Event-Belohnungen funktionieren, damit jede Ressource deine Aufstellung voranbringt."
+  },
+  "trading": {
+    "overviewTitle": "Alliance Tower Defense Handel",
+    "overviewDescription": "Lies Handelswerte, Nachfragesignale und Tipps zur Angebotsprüfung, bevor du Einheiten tauschst, damit du dein bestes Inventar schützt."
+  },
+  "community": {
+    "overviewTitle": "Alliance Tower Defense Community",
+    "overviewDescription": "Verfolge Update-Berichte, Diskussionen zu neuen Einheiten, Discord- und Reddit-Highlights sowie community-getestete Tipps für das aktuelle Meta."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Alliance Tower Defense Wiki",
+    "about": "Das Alliance Tower Defense Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Einheiten, Tier-Listen, Teamaufstellungen, Beschwörungen, Etappenstrategien, Codes und wöchentlichen Updates für neue und erfahrene Spieler.",
+    "quickLinks": "Schnellzugriff",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Alliance Tower Defense Wiki. Nicht mit MrUpTime's Games oder Roblox verbunden.",
+    "description": "Roblox-Tower-Defense-Strategiespiel. Beschwöre Einheiten, stelle Teams zusammen, verdiene Münzen und steige in der Rangliste auf.",
+    "playGame": "Alliance Tower Defense auf Roblox spielen",
+    "officialDiscord": "MrUpTime's Games Discord",
+    "officialYoutube": "Alliance Tower Defense Videos",
+    "vvBuilder": "Alliance Tower Defense Community",
+    "beginnerGuide": "Einsteiger-Guide",
+    "raceGuides": "Charakter-Guides",
+    "bossGuides": "Spielmodus-Guides",
+    "buildGuide": "Einheiten-Tier-Liste",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
